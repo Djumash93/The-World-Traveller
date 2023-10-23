@@ -1,3 +1,13 @@
+This is a vite app The World Traveller. It is a single page application, which helps to track your travels. It is easy to use, have fun :) 
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
