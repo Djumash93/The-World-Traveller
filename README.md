@@ -1,4 +1,7 @@
-This is a vite app The World Traveller. It is a single page application, which helps to track your travels. It is easy to use, have fun :) 
+This is a vite app The World Traveller. It is a single page application, which helps to track your travels. Working on a backend to store the information. It is easy to use, have fun :) 
+
+Tech stack used - React, Vite, External libraries - datepicker,  leaflet. 
+If forked will work upon running with a temporary json file that acts as a 'fake' API
 
 Here is a link for the live server https://theworldtraveller.netlify.app/
 
